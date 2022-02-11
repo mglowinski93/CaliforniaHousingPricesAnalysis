@@ -8,7 +8,7 @@ analysis. Whole work is prepared in [jupyter notebook](https://jupyter.org/).
 Running of this project locally requires the following tools to be
 present on the host system:
 
-* `python >= 3.8`
+* `3.8 >= python >= 3.6`
 
 ## Running project locally
 
