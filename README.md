@@ -17,3 +17,11 @@ To run project locally:
 2. `pip install -r requirements`
 3. `jupyter notebook`
 4. Open file `CaliforniaHousingPricesAnalysisNotebook`
+
+## Final report
+Final report is prepared as web page (in HTML).  
+To view final report:
+1. download this repository
+2. open file `CaliforniaHousingPricesAnalysisNotebook.html`
+
+Do not move this file, since it needs access to `images` folder.
